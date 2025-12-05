@@ -1,0 +1,17 @@
+# Arel Çelik Sakarya - Robots.txt
+# https://arelcelik.com.tr
+
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://arelcelik.com.tr/sitemap.xml
+
+# Disallow admin and private areas
+Disallow: /includes/
+
+# Allow all images
+Allow: /assets/images/
+
+# Crawl-delay for responsible crawling
+Crawl-delay: 1

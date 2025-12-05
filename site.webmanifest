@@ -1,0 +1,23 @@
+{
+  "name": "Arel Çelik",
+  "short_name": "Arel Çelik",
+  "description": "Çelik Sektöründe Profesyonel Çözümler",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#e63946",
+  "icons": [
+    {
+      "src": "assets/images/favicon/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "assets/images/favicon/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
